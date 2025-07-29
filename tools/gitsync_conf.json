@@ -35,7 +35,7 @@
     {
         "name": "YAXUNIT",
         "extention": "YAXUNIT",
-        "path": "tcp://KyralesGun/Storage/storage.1ccr/StorageOtus_yaxunit",
+        "path": "tcp://dev-1c/erp/modules/OTUS/Demo83_yaxunit_Otus_yaxunit",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
         "v8version": "8.3.27.1606",
