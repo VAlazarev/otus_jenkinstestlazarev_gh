@@ -34,7 +34,7 @@
     },
     {
         "name": "YAXUNIT",
-        "extention": "yaxunit",
+        "extention": "YAXUNIT",
         "path": "tcp://dev-1c/erp/modules/OTUS/Demo83_yaxunit_Otus_yaxunit",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
