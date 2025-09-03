@@ -40,7 +40,7 @@
     "zipInfoBase": 60
   },
   "initInfobase": {
-    "initMethod": "fromSource",
+    "initMethod": "fromStorage",
     "path": "./src/cf",
     "runMigration": true,
     "additionalInitializationSteps": [],
