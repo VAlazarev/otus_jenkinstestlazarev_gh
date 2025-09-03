@@ -6,8 +6,8 @@
   "sourceFormat": "designer",
   "defaultBranch": "storage_1c",
   "secrets": {
-    "storagePath": "Path_Otus_Storage_ID",
-    "storage": "DeployGit_id",
+    "storagePath": "VAlazarev_otus_jenkinstestlazarev_gh_STORAGE_PATH",
+    "storage": "VAlazarev_otus_jenkinstestlazarev_gh_STORAGE_USER",
     "telegramBotToken": "UNKNOWN_ID",
     "telegramChatId": "UNKNOWN_ID"
   },
