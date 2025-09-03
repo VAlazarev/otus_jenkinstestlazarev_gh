@@ -40,7 +40,8 @@
     "zipInfoBase": 60
   },
   "initInfobase": {
-    "initMethod": "fromStorage",
+    "initMethod": "fromSource",
+    "path": "./src/cf",
     "runMigration": true,
     "additionalInitializationSteps": [],
     "templateDBPath": "d:/onec/DemoUP/1Cv8.1CD",
