@@ -3,7 +3,7 @@
   "agent": "gitsync",
   "v8Version": "8.3.27.1606",
   "defaultInfobase": {
-    "connectionString": "/FD:/1C/Demo83_yaxunit_Otus_dev",
+    "connectionString": "/FD:/onec/Demo83_yaxunit_Otus_dev",
     "auth": ""
   },
   "stages": {
