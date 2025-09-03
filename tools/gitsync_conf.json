@@ -29,7 +29,7 @@
       "temp-dir": "",
       "v8version": "8.3.27.1606",
       "plugins-config": {
-        "URL": "https://gitlab.di-house.ru/lazarev/otus_jenkinstestlazarev.git"
+        "URL": "https://github.com/VAlazarev/otus_jenkinstestlazarev_gh.git"
       }
     },
     {
@@ -40,7 +40,7 @@
         "temp-dir": "",
         "v8version": "8.3.27.1606",
         "plugins-config": {
-          "URL": "https://gitlab.di-house.ru/lazarev/otus_jenkinstestlazarev.git"
+          "URL": "https://github.com/VAlazarev/otus_jenkinstestlazarev_gh.git"
         }
      }
   ]
