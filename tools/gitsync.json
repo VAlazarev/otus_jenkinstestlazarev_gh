@@ -8,8 +8,8 @@
     "auth": ""
   },
   "stages": {
-    "gitsync": true,
-    "build": true
+    "gitsync": true
+  
   },
   "gitsync" : {
     "timeout" : 30,
